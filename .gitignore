@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite DB
+*.db
+
+# Virtual environments
+venv/
+.env/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# System
+.DS_Store
