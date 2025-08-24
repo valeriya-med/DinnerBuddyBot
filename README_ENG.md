@@ -58,7 +58,7 @@ If the user confirms the booking, his data is stored in the database for further
 - *storage.py* Working with memory and saving to the database
 
 
-## Installing dependencies
+## Installing dependencies :grey_exclamation:
 
 *Before running the bot, you need to install the required libraries.
 To do this, run in the terminal:*
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ```
 
 
-## An example of bot work
+## An example of bot work :computer:
 
 ![img.png](img.png)
 ![img_1.png](img_1.png)

@@ -63,7 +63,7 @@
      - *storage.py*      Робота з пам'яттю та збереження до бази даних
 
 
-## Installing dependencies
+## Installing dependencies :grey_exclamation:
 
 *Перед запуском бота потрібно встановити необхідні бібліотеки.  
 Для цього виконай у терміналі:*
@@ -72,7 +72,7 @@
 pip install -r requirements.txt
 ```
 
-## An example of bot work
+## An example of bot work :computer:
 
 ![img.png](img.png)
 ![img_1.png](img_1.png)
