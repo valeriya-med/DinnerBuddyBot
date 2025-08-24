@@ -17,3 +17,5 @@ venv/
 
 # System
 .DS_Store
+
+.env
